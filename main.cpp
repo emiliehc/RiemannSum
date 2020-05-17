@@ -29,7 +29,7 @@ int main()
         f >> number;
         points[i].second = number;
     }
-    
+
     std::pair<double, double> previousPoint;
 
     double sum = 0;
